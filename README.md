@@ -5,4 +5,4 @@ Para rodar esse projeto na sua maquina, por favor digite:
 ```
 node app.js
 ```
-:D
+Apenas testes para desenvolvimento do conhecimento no gitHub, primeiro contato com a plataforma nessa época.
