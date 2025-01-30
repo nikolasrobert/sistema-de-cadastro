@@ -1,7 +1,7 @@
-<h1>Sistema de cadastro de jogos</h1>
+<h1>Primeiro teste para aprendizado do github</h1>
 
 > Status do projeto: Em desenvolvimento
-Para rodar esse projeto na sua maquina, por favor digite:
+Foi o primeiro contato com o github, aprendendo a interagir com o prompt de comando.
 ```
 node app.js
 ```
